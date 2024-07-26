@@ -1,5 +1,5 @@
          
-
+ 
 # 🌐 LoRa Communication System
 
 This project implements a LoRa communication system using the RH_RF95 library for long-range communication. The system consists of a master device and a node device, where the master can send commands to the node to retrieve sensor data or control devices.
