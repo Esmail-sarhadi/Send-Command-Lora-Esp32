@@ -78,9 +78,17 @@ The master device will display the received data or the status of the command ex
 - Executes the received command (reads sensor data, activates buzzer, or activates relay).
 - Sends sensor data back to the master if requested.
 
+## Scenario Images
+
+![Scenario 3](Scenario%20(4 & 5).jpg)
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<a href="https://nowpayments.io/donation?api_key=REWCYVC-A1AMFK3-QNRS663-PKJSBD2&source=lk_donation&medium=referral" target="_blank">
+     <img src="https://nowpayments.io/images/embeds/donation-button-black.svg" alt="Crypto donation button by NOWPayments">
+    </a>
+
 
 ## Acknowledgments
 
